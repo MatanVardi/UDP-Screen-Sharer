@@ -1,0 +1,13 @@
+# --- Python/Environment ---
+.venv/
+venv/
+env/
+env/.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE/Editor Settings ---
+.idea/
+.DS_Store
